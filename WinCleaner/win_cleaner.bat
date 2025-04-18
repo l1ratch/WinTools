@@ -11,6 +11,7 @@ echo [START] Cleanup started at !timestamp! > "!logfile!"
 cls
 echo ============================================
 echo        Windows Cleaner v1.0 [.bat]
+echo    https://github.com/l1ratch/WinTools
 echo ============================================
 echo.
 echo 1. Basic Cleanup (safe)
